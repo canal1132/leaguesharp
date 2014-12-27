@@ -1,3 +1,0 @@
-E:\LeagueSharp\L#本地脚本\本地脚本\CN-master\CN-master\ADC合集\obj\Release\ADC合集.csprojResolveAssemblyReference.cache
-E:\LeagueSharp\L#本地脚本\本地脚本\CN-master\CN-master\ADC合集\obj\Release\Marksman.Properties.Resources.resources
-E:\LeagueSharp\L#本地脚本\本地脚本\CN-master\CN-master\ADC合集\obj\Release\ADC合集.csproj.GenerateResource.Cache
